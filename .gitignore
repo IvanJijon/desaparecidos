@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+venv/
+
+*.png
+
+*.html
+
+.idea
